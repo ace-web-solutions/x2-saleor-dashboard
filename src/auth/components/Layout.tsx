@@ -1,6 +1,6 @@
 import backgroundArt from "@assets/images/login-background.svg";
-import saleorDarkLogo from "@assets/images/logo-dark.svg";
-import saleorLightLogo from "@assets/images/logo-light.svg";
+import saleorDarkLogo from "@assets/images/x2_logo_blue.svg";
+import saleorLightLogo from "@assets/images/x2_logo_trans.svg";
 import { makeStyles } from "@material-ui/core/styles";
 import useTheme from "@saleor/hooks/useTheme";
 import React from "react";
